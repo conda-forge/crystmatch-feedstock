@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/crystmatch-{{ version }}.tar.gz
-  sha256: 0e3a87a1582788b96a77b9be2a210bfaa3bd16a05d0701c23f27a8bf56272302
+  sha256: c0ee6c6fa25b555c0e8db8769b1fa2bb853f0c16c0ea49c1663c8a3bedf57554
 
 build:
   entry_points:
