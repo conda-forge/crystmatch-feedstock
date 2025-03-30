@@ -1,5 +1,5 @@
 {% set name = "crystmatch" %}
-{% set version = "1.1.4" %}
+{% set version = "1.1.5" %}
 
 package:
   name: {{ name|lower }}
@@ -28,6 +28,7 @@ requirements:
     - scipy
     - matplotlib-base
     - spglib
+    - tqdm
 
 test:
   imports:
