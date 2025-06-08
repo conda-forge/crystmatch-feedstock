@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/crystmatch-feed
 
 Home: https://github.com/Fangcheng-Wang/crystmatch
 
-Package license: GPL-2.0-or-later
+Package license: GPL-3.0-or-later
 
 Summary: Enumerating and analyzing crystal-structure matches for solid-solid phase transitions.
 
