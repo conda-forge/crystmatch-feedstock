@@ -1,5 +1,5 @@
 {% set name = "crystmatch" %}
-{% set version = "2.0.8" %}
+{% set version = "2.0.10" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/crystmatch-{{ version }}.tar.gz
-  sha256: 1014c0466f16c717c353851e69bfcfd23f156d65be20477e5db47b3edc2b591e
+  sha256: b6edf22e6d9eaefa92e2d1e28cf457e8abf0a6591194e805e382508e31c7e619
 
 build:
   entry_points:
